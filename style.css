@@ -53,10 +53,11 @@ body{
     padding: 20px;
     margin: auto;
     line-height: 30px;
-    
+    color: #ffff;
     
 }
 .block1_text {
+    
     
     height: 200px;
     font-size: 20px;
